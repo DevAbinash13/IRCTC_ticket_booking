@@ -1,3 +1,4 @@
 class UsernamePasswords():
-    from_dest = "Bhubaneswar"
-    to_dest = "Bengaluru CANT"
+    from_dest = "BHUBANESWAR - BBS (BHUBANESWAR)"
+    to_dest = "BENGALURU CANT - BNC "
+    date = "25/10/2025"
